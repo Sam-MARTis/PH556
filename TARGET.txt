@@ -1,0 +1,9 @@
+Target: (248370) 2005 QN173
+Telescope: GROWTH-India Telescope (0.7 m), Hanle; MPC observatory code N50
+Frames: 15 reduced, astrometrically calibrated images (bias, flat and WCS done) on 3 nights:
+  2021-07-13  (7 frames)
+  2021-07-14  (2 frames)
+  2021-07-21  (6 frames)
+Times: DATE-OBS is the exposure START (UTC); add EXPTIME/2 for mid-exposure.
+Task: measure the asteroid's RA/Dec in each frame and determine its orbit.
+Note: the header GAIN is not reliable for these frames (not needed for astrometry).
