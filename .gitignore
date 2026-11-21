@@ -1,1 +1,6 @@
 data/*
+.gitignore
+processingAttempt02.ipynb
+ROADMAP.md
+output/
+work/
